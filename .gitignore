@@ -1,4 +1,6 @@
 # Comment 
+!files/f1.txt
+files/
 *.swp
 tempfile.txt
 tempfile2.txt
