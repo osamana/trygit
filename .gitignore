@@ -1,5 +1,4 @@
 # Comment 
-!files/
 files/*
 !files/f1.txt
 *.swp
