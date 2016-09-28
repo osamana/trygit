@@ -2,8 +2,6 @@
 files/*
 !files/f1.txt
 *.swp
-tempfile.txt
-tempfile2.txt
 .DS_Store
 *.zip
 *.gz
