@@ -10,5 +10,5 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
-
+Lec 1 _ MIT 6.046J _ 18.410J Introduction to Algorithms (SMA 5503), Fall 2005-JPyuH4qXLZ0.webm.part
 # question: would log/archive/access.log be ignored? No.
